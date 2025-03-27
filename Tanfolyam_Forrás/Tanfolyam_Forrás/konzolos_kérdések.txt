@@ -1,0 +1,4 @@
+- Kérdezze le a tanulók átlagéletkorát! (elősször az életkorukat)
+- Kérdezze le azon tanulók nevét, akiknek még nincs egyetlen jegye sem angolból! (Segéd lekérdezés: kinek van jegye angolból)
+- Készítsen lekérdezést, amely megjeleníti a tantárgyakat és a tantárgyhoz tartozó jegyek átlagát!
+- Készítsen lekérdezést, amely tartalmazza Kovács Elek minden jegyét! A lekérdezésben jelenjen meg a tantárgy neve és az érdemjegy!
